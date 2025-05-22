@@ -1,1 +1,66 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Drasco Sarl | Abdourahmane Dramé</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
 
+  <header class="hero">
+    <div class="container">
+      <h1>Bienvenue à Drasco Sarl</h1>
+      <p>Favoriser le développement par la vente, l'enseignement et la sous-traitance en Guinée.</p>
+      <a href="#contact" class="btn">Entrer en contact</a>
+    </div>
+  </header>
+
+  <nav class="navbar">
+    <div class="container">
+      <a href="#about">À propos</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <section id="about">
+      <h2>À propos de moi</h2>
+      <p>Je suis <strong>Abdourahmane Dramé</strong>, fondateur de <strong>Drasco Sarl</strong>. Notre mission est de contribuer pour le développement de la Guinée à travers les services professionnels dans l'éducation, consultation commerciale, et la sous-traitance.</p>
+    </section>
+
+    <section id="services">
+      <h2>Our Services</h2>
+      <div class="cards">
+        <div class="card">
+          <h3>Conseil en vente</h3>
+          <p>Nous aidons les entreprises à se développer à travers le marketing sur mesure et la stratégie de vente.</p>
+        </div>
+        <div class="card">
+          <h3>Education & Tutoring</h3>
+          <p>Offrir une éducation de qualité et des cours particuliers pour tous les niveaux.</p>
+        </div>
+        <div class="card">
+          <h3>Formation particulière</h3>
+          <p>Formation certifiante dans plusieurs domaines.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:abdooldrame26@gmail.com">abdooldrame26@gmail.com</a></p>
+      <p>Phone: +224 625 24 39 45</p>
+      <p>Website: <a href="https://Drascosarl.com">Drascosarl.com</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Drasco Sarl | All rights reserved.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
